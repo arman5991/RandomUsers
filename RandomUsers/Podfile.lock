@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.2)
+  - MarqueeLabel (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - MarqueeLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  MarqueeLabel: b55b26e690b6ad41faedd95cbf5eae6f1d1735b4
+
+PODFILE CHECKSUM: cf02fc3ae7a3f5c28c5623f9061bf82b68e2b66c
+
+COCOAPODS: 1.6.2
